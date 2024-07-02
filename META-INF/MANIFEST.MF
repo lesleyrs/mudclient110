@@ -1,0 +1,112 @@
+Manifest-Version: 1.0
+
+Name: c.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: XJkK022+FcNz4Z68QdGeVb4eBCk=
+MD5-Digest: H3WolqnrvCvoxYPL43hvKA==
+
+Name: m.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: f/ItVo+Gz/lBWSqQGQ5+aH7Tge0=
+MD5-Digest: MraLvoHToBBu1Dn0mlM2wg==
+
+Name: mudclient.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: kZQeR96R7ZXyBsfWPL1MmIaAmDE=
+MD5-Digest: YIYnv0WrOI0SnecjadjSbg==
+
+Name: n.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: C7BQzp1/PDTdpsbzx9KN7qZDGpA=
+MD5-Digest: HVfY3wR/toS4iqsVvkEcLA==
+
+Name: q.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: Wygh1Ii4MwQR1JdzgSBw1NDob3s=
+MD5-Digest: J8R6gPvd2Xx/sO2y+3NTUA==
+
+Name: t.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: g5Tv5NlhfydkqSVjDS2uodQUrL8=
+MD5-Digest: tARsbdMIQcmjsBvMZuhDnw==
+
+Name: jagex/b.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 5goIefZ4w32xcB5R4qZC3oPEP/0=
+MD5-Digest: cZzsY18WYiuzAf1awJJw4w==
+
+Name: jagex/e.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: wsZniO5uHAOjMn3mlk6LCNXvwRw=
+MD5-Digest: HHOSOeDfxNkMSmG6fW92ig==
+
+Name: jagex/g.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: spmEQZX+GV+iMLtz3drVDYdoxsw=
+MD5-Digest: Z/w/DC6YjmlqMF08ZRfZkA==
+
+Name: jagex/o.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: JcHF50Z1svdx+PtZBEgiP+vDdlU=
+MD5-Digest: hEfLwo0UJhpKWA/9FgnQww==
+
+Name: jagex/p.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: 3gHSce9/V+OmhPXw6ZHNfzCdqmU=
+MD5-Digest: L/cq8MRjT2uD+SDzVi/oLg==
+
+Name: jagex/s.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: XhYIjEQgttsbAz+0jMx6ZCaJl90=
+MD5-Digest: 8PiMxHZg5vSpBfBQ8sGcow==
+
+Name: jagex/client/a.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: CM/5V9OM9KBLMztYXJYZcl77tt8=
+MD5-Digest: Y92R1VPxXy/9MpxadQQviQ==
+
+Name: jagex/client/d.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: OSgCYQGaUWsKN7u3wq29XA1KG4g=
+MD5-Digest: FTrMuu74oF3iaQumcNK3Lw==
+
+Name: jagex/client/f.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: E3pNJ0sTuDwlwSKDIIKWny6WOiY=
+MD5-Digest: uB91iV30rmG7BB+FAAqyFw==
+
+Name: jagex/client/h.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: w6B0xzQZSEg6AFFOLPLSucRRmvI=
+MD5-Digest: nkwpTAnGIGWYh/TGymv79Q==
+
+Name: jagex/client/i.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: EBFJ873mjU1dqYA8BC7KSzmzhdI=
+MD5-Digest: UALlFx/bKOiO0SVXXUxvtw==
+
+Name: jagex/client/j.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: V41K0UMTNj/UYQ9ij9REZ2gFqfQ=
+MD5-Digest: 8gDQbIozzMTxsMy7qmqUGA==
+
+Name: jagex/client/k.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: FA8kffa+7X70i9C2pgmyviCFDvk=
+MD5-Digest: hGQ2aQlm9WtjwFd9JnTh6Q==
+
+Name: jagex/client/l.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: ppAGK/qt3rYeNPNXlduFCf3DZMI=
+MD5-Digest: OFylTIXnNfUfn0/JM+CrJQ==
+
+Name: jagex/client/r.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: mI/EPBLww3YHYqk+yTgN/Mu3zDI=
+MD5-Digest: du/ySR+y4CwJ/5JClaYGjA==
+
+Name: jagex/client/u.class
+Digest-Algorithms: SHA MD5 
+SHA-Digest: XV+TjQnzwEi09BjQasVPDfwFK5U=
+MD5-Digest: 8SYO1q0Jk0zo1cLvBMy4wg==
+

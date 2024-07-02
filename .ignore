@@ -1,0 +1,6 @@
+.ignore
+.gitignore
+Makefile
+META-INF
+*.jar
+*.jag
