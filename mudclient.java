@@ -14,7 +14,7 @@ import java.net.URL;
 
 public class mudclient extends f {
 
-    public static void qm(String as[]) {
+    public static void main(String as[]) {
         mudclient mudclient1 = new mudclient();
         mudclient1.mt = false;
         mudclient1.gj(mudclient1.iu, mudclient1.ju + 22, "Runescape by Andrew Gower", false);
@@ -95,7 +95,7 @@ public class mudclient extends f {
     }
 
     public void dl() {
-        if(dk()) {
+        if(/* dk() */true) {
             byte abyte0[] = null;
             try {
                 abyte0 = ij("config" + c.ic + ".jag", "Configuration", 10);
@@ -113,7 +113,7 @@ public class mudclient extends f {
     }
 
     public void nm() {
-        if(dk()) {
+        if(/* dk() */true) {
             byte abyte0[] = null;
             try {
                 abyte0 = ij("media" + c.kc + ".jag", "2d graphics", 20);
@@ -200,7 +200,7 @@ public class mudclient extends f {
         ofb = 0;
         pfb = ofb;
         byte abyte0[] = null;
-        if(dk() && flag) {
+        if(/* dk() */true && flag) {
             String s = "entity" + c.nc + ".jag";
             try {
                 abyte0 = ij(s, "people and monsters", 30);
@@ -223,7 +223,7 @@ label0:
             }
 
             if(flag)
-                if(dk()) {
+                if(/* dk() */true) {
                     boolean flag1 = true;
                     if(t.ukb[j1] != 0)
                         flag1 = false;
@@ -269,7 +269,7 @@ label0:
     }
 
     public void gm() {
-        if(dk()) {
+        if(/* dk() */true) {
             cu.kh("textures" + c.mc + ".jag", 7, 11, 50, this);
             return;
         } else {
@@ -288,7 +288,7 @@ label0:
         t.vp("skulltorcha4");
         t.vp("firea2");
         t.vp("firea3");
-        if(dk()) {
+        if(/* dk() */true) {
             byte abyte0[] = null;
             try {
                 abyte0 = ij("models" + c.lc + ".jag", "3d models", 70);
@@ -313,7 +313,7 @@ label0:
     }
 
     public void fn() {
-        if(dk()) {
+        if(/* dk() */true) {
             xu.chb = null;
             try {
                 xu.chb = ij("maps" + c.jc + ".jag", "map", 90);
